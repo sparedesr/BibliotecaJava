@@ -1,5 +1,9 @@
 package excepciones;
 
-public class LibroNoPrestadoException {
+public class LibroNoPrestadoException extends Exception {
+
+    public LibroNoPrestadoException(String mensaje) {
+        super(mensaje);
+    }
 
 }

@@ -17,3 +17,11 @@ Este proyecto servirá como base para desarrollar un sistema sencillo de gestió
 - `app`: clase principal.
 - `modelos`: clases del dominio.
 - `excepciones`: excepciones personalizadas.
+
+## Funcionalidades pendientes
+
+- [ ] Implementar préstamo de libros.
+- [ ] Implementar devolución de libros.
+- [ ] Mostrar información completa de los libros.
+- [ ] Manejar excepciones personalizadas.
+- [ ] Mejorar el método toString().
